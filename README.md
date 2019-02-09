@@ -29,3 +29,12 @@
 5. Lalu ketikkan "pengulangan()"
 	agar program perulangan dapat berjalan
 ```
+
+flowchart
+
+![52465207-6299dd00-2bb0-11e9-83eb-b833da1e5a62](https://user-images.githubusercontent.com/44091204/52515391-7c3d3200-2c4d-11e9-8982-ec9dfe518c2d.jpg)
+
+
+hasil sreenshot
+
+![untitled](https://user-images.githubusercontent.com/44091204/52515393-83fcd680-2c4d-11e9-8832-4c74a477bfb0.jpg)
