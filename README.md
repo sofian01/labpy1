@@ -1,5 +1,6 @@
 # labpy1
 
+```
 1. Mendefinisikan perulangan dengan mengetikkan :
 	def pengulangan():
 2. Memasukkan 3 buah bilangan yg di inginkan :
@@ -27,3 +28,4 @@
         print('Terima kasih')
 5. Lalu ketikkan "pengulangan()"
 	agar program perulangan dapat berjalan
+```
